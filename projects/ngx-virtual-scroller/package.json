@@ -1,5 +1,5 @@
 {
-  "name": "@iharbeck/ngx-virtual-scroller",
+  "name": "@sebastientromp/ngx-virtual-scroller",
   "version": "16.0.0",
   "peerDependencies": {
     "@tweenjs/tween.js": "^20.0.3"
@@ -31,7 +31,7 @@
       "name": "Pavel Kukushkin"
     },
     {
-      "name" : "Ingo Harbeck"
+      "name": "Ingo Harbeck"
     }
   ],
   "license": "MIT",
